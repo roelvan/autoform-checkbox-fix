@@ -1,6 +1,6 @@
 # Installation
 
-Download .zip and extract into packages folder of your meteor project. Then run:
+Download or clone into the `packages` folder of your Meteor project. Then run:
 
 `meteor add rova:autoform-checkbox-fix`
 
